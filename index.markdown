@@ -41,3 +41,5 @@ Newark, DE, 19711
 **UD校园团契每周五晚与你不见不散**
 
 302-268-4260
+
+![Wechat](assets/img/wechat.jpg)
