@@ -30,9 +30,8 @@ UD 校园团契 (Univeristy Of Delaware Chinese Christian Fellowship)
 ## 地点：
 
 ```
-355 Paper Mill Rd,
+215 E Delaware Ave
 Newark, DE, 19711 
-(PineBrook公寓对面)
 ```
 
 ![Church](/assets/img/church.jpg)
